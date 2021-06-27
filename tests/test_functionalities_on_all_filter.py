@@ -19,7 +19,7 @@ def test_add_many():
     todomvc.assert_all_todos('a', 'b', 'c').assert_items_left(3)
 
 
-'''def test_edit_by_enter():
+def test_edit_by_enter():
     todomvc.given_opened_with('a', 'b', 'c')
 
     todomvc.edit_by_enter('b', 'b edited')
@@ -108,4 +108,4 @@ def test_delete():
 
     todomvc.delete('b')
 
-    todomvc.assert_all_todos('a', 'c').assert_items_left(2)'''
+    todomvc.assert_all_todos('a', 'c').assert_items_left(2)

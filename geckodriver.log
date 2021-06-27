@@ -1,0 +1,286 @@
+1616706050308	geckodriver	INFO	Listening on 127.0.0.1:60895
+1616706050314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV0zWqW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616706055263	Marionette	INFO	Listening on port 37917
+1616706055398	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1616706058991	Marionette	INFO	Stopped listening on port 37917
+1616706159833	geckodriver	INFO	Listening on 127.0.0.1:34283
+1616706159839	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBny5Go"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616706163991	Marionette	INFO	Listening on port 44635
+1616706164102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1616706167445	Marionette	INFO	Stopped listening on port 44635
+1616706334449	geckodriver	INFO	Listening on 127.0.0.1:40055
+1616706334455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerDggfO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616706338658	Marionette	INFO	Listening on port 41813
+1616706338708	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1616706341554	Marionette	INFO	Stopped listening on port 41813
+1616706342925	geckodriver	INFO	Listening on 127.0.0.1:50235
+1616706342931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQVO0QQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616706347567	Marionette	INFO	Listening on port 34313
+1616706347685	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1616706352096	Marionette	INFO	Stopped listening on port 34313
+1616706886090	geckodriver	INFO	Listening on 127.0.0.1:45113
+1616706886090	geckodriver	INFO	Listening on 127.0.0.1:36973
+1616706886093	geckodriver	INFO	Listening on 127.0.0.1:40671
+1616706886094	geckodriver	INFO	Listening on 127.0.0.1:36841
+1616706886097	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePRjT5s"
+1616706886099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXQS7Id"
+1616706887098	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD9RRbT"
+1616706887104	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepuKjrP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616706897707	Marionette	INFO	Listening on port 44901
+1616706898041	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616706898092	Marionette	INFO	Listening on port 37135
+1616706898586	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616706898807	Marionette	INFO	Listening on port 42591
+1616706898858	Marionette	INFO	Listening on port 37597
+1616706898999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616706899402	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1616706910663	Marionette	INFO	Stopped listening on port 42591
+1616706910664	Marionette	INFO	Stopped listening on port 44901
+1616706910665	Marionette	INFO	Stopped listening on port 37135
+1616706910667	Marionette	INFO	Stopped listening on port 37597
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616837471885	geckodriver	INFO	Listening on 127.0.0.1:40445
+1616837472462	geckodriver	INFO	Listening on 127.0.0.1:58025
+1616837472470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2fFo3M"
+1616837472488	geckodriver	INFO	Listening on 127.0.0.1:47555
+1616837472493	geckodriver	INFO	Listening on 127.0.0.1:54661
+1616837472495	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile65ZdQY"
+1616837472500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileozs56E"
+1616837472893	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9EZ3rr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616837483857	Marionette	INFO	Listening on port 41009
+1616837484062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616837484670	Marionette	INFO	Listening on port 33511
+1616837484960	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616837485050	Marionette	INFO	Listening on port 34905
+1616837485144	Marionette	INFO	Listening on port 38839
+1616837485189	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616837485264	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1616837497578	Marionette	INFO	Stopped listening on port 41009
+1616837497687	Marionette	INFO	Stopped listening on port 33511
+1616837497937	Marionette	INFO	Stopped listening on port 38839
+1616837498211	Marionette	INFO	Stopped listening on port 34905
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616837500446	geckodriver	INFO	Listening on 127.0.0.1:33961
+1616837500447	geckodriver	INFO	Listening on 127.0.0.1:40915
+1616837500453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSuHBPW"
+1616837500453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSBrFEg"
+1616837500464	geckodriver	INFO	Listening on 127.0.0.1:52637
+1616837500475	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5i4GXT"
+1616837500561	geckodriver	INFO	Listening on 127.0.0.1:47485
+1616837500575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHHP8YQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1616837511895	Marionette	INFO	Listening on port 46475
+1616837512373	Marionette	INFO	Listening on port 37559
+1616837512416	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616837512500	Marionette	INFO	Listening on port 37163
+1616837512746	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616837512814	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616837512863	Marionette	INFO	Listening on port 46847
+1616837513287	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1616837518712	Marionette	INFO	Stopped listening on port 37163
+1616837519117	Marionette	INFO	Stopped listening on port 46475
+1616837520041	Marionette	INFO	Stopped listening on port 37559
+1616837520351	Marionette	INFO	Stopped listening on port 46847
+1616837521647	geckodriver	INFO	Listening on 127.0.0.1:59365
+1616837521655	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVYssmA"
+1616837522241	geckodriver	INFO	Listening on 127.0.0.1:53315
+1616837522247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiKpOya"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616837527506	Marionette	INFO	Listening on port 41641
+1616837527640	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616837528215	Marionette	INFO	Listening on port 45311
+1616837528317	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1616837531867	Marionette	INFO	Stopped listening on port 45311
+1616837535873	Marionette	INFO	Stopped listening on port 41641
+1616842495123	geckodriver	INFO	Listening on 127.0.0.1:47457
+1616842495129	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex0bPja"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616842499580	Marionette	INFO	Listening on port 40377
+1616842499710	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1616842505037	geckodriver	INFO	Listening on 127.0.0.1:44977
+1616842505043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKThLWC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616842509784	Marionette	INFO	Listening on port 40605
+1616842509913	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616842509946	Marionette	INFO	Stopped listening on port 40377
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1616842514401	Marionette	INFO	Stopped listening on port 40605
+1616842565848	geckodriver	INFO	Listening on 127.0.0.1:59413
+1616842565854	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyPaxBb"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:66669): GLib-GObject-CRITICAL **: 12:56:07.415: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:66686): GLib-GObject-CRITICAL **: 12:56:07.643: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:66754): GLib-GObject-CRITICAL **: 12:56:09.416: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616842569417	Marionette	INFO	Listening on port 36299
+1616842569509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1616842573154	geckodriver	INFO	Listening on 127.0.0.1:41169
+1616842573160	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHK4yvD"
+*** You are running in headless mode.
+
+(/usr/lib/firefox/firefox:66835): GLib-GObject-CRITICAL **: 12:56:14.823: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:66852): GLib-GObject-CRITICAL **: 12:56:15.037: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(/usr/lib/firefox/firefox:66925): GLib-GObject-CRITICAL **: 12:56:16.931: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1616842576970	Marionette	INFO	Listening on port 46179
+1616842577110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616842577142	Marionette	INFO	Stopped listening on port 36299
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1616842581227	Marionette	INFO	Stopped listening on port 46179
+1616950790231	geckodriver	INFO	Listening on 127.0.0.1:46523
+1616950790239	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRvifNx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616950796769	Marionette	INFO	Listening on port 37287
+1616950796968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1616950800063	geckodriver	INFO	Listening on 127.0.0.1:54329
+1616950800069	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem7KIuP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616950805397	Marionette	INFO	Listening on port 35043
+1616950805522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616950805731	Marionette	INFO	Stopped listening on port 37287
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1616950810082	geckodriver	INFO	Listening on 127.0.0.1:34889
+1616950810090	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexEh3hJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616950815544	Marionette	INFO	Listening on port 37123
+1616950815688	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616950815882	Marionette	INFO	Stopped listening on port 35043
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://todomvc4tasj.herokuapp.com/bower_components/requirejs/require.js, line 15: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1616950822557	Marionette	INFO	Stopped listening on port 37123
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
